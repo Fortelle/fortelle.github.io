@@ -1,5 +1,5 @@
 function foo(){
-  alert("hello world");
+  document.write('hello world!!');
 }
 
 export default { foo };
