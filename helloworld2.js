@@ -1,2 +1,3 @@
+import a from "./hw.json";
 
-console.log('hello world 2');
+console.log( a.a );
