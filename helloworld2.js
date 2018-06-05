@@ -1,3 +1,5 @@
-import a from "./hw.json";
+function foo(){
+  alert("hello world");
+}
 
-console.log( a.a );
+export default { foo };
